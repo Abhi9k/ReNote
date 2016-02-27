@@ -4,5 +4,8 @@
     "version": "0.1",
     "manifest_version": 2,
     "app": {},
-    "icons": {}
+    "icons": {
+        "16": "re-note-16.png",
+        "128": "re-note-128.png"
+    }
 }
